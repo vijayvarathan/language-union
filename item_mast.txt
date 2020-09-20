@@ -1,0 +1,15 @@
+CREATE TABLE item_mast(PRO_ID int,PRO_NAME varchar(300),PRO_PRICE int,PRO_COM int);
+INSERT INTO item_mast VALUES(101,'Mother Board',3200,15);
+INSERT INTO item_mast VALUES(102,'Key Board',450,16);
+INSERT INTO item_mast VALUES(103,'ZIP drive',250,14);
+INSERT INTO item_mast VALUES(104,'Speakers',550,16);
+INSERT INTO item_mast VALUES(105,'MONITOR',5000,11);
+INSERT INTO item_mast VALUES(106,'DVD drive',900,12);
+INSERT INTO item_mast VALUES(107,'CD DRIVE',800,12);
+INSERT INTO item_mast VALUES(108,'Printer',2600,13);
+INSERT INTO item_mast VALUES(109,'Refill catridge',350,13);
+
+
+
+
+
